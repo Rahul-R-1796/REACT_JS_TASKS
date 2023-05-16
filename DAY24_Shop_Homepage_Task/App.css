@@ -1,0 +1,53 @@
+.App{
+  text-align: center;
+}
+.card-container{
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap:1rem;
+  margin: 27px;
+  justify-content: center;
+  
+}
+.cart-value{
+  display: flex;
+  justify-content: end;
+  margin: 15px;
+  font-size: larger;
+  
+}
+
+.card-data{
+   width: 450px;
+}
+.size{
+  height: 250px;
+}
+.card-data{
+  background-color: black;
+  color: white;
+}
+.set-border{
+  border:1px solid black;
+  width:100%;
+  padding:15px;
+  gap:25px;
+  background-color: black;
+  color: white;
+}
+.My-btn{
+  border:none;
+  border-radius: 5px;
+  padding: 8px;
+  margin: 12px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.background{
+  background-image: url('backgroundimg.png');
+  height:300px;
+  width:100%;
+  color:white;
+  
+}
+
