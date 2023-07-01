@@ -1,4 +1,4 @@
-NETLIFY LINK : https://647499ff6b5fe2015b931ff0--grand-torrone-6c9110.netlify.app/students
+NETLIFY LINK : https://647499ff6b5fe2015b931ff0--grand-torrone-6c9110.netlify.app
 
 
 
